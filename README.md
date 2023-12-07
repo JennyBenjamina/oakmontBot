@@ -5,3 +5,7 @@
 - Closing Standard Operation
 - Opening Standard Operation
 - Receiving items
+- shows what times our members like to play
+- shows what times our pros work
+
+  
